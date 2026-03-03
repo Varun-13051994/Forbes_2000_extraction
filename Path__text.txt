@@ -1,0 +1,3 @@
+Paths:
+fetch_path=: "C:\Users\asvarun\OneDrive - Information Services Group (ISG)\Shashikala M's files - Varun CD Workspace\Forbes_2000_extraction\HTML Text.txt"
+base_path=: C:\Users\asvarun\OneDrive - Information Services Group (ISG)\Shashikala M's files - Varun CD Workspace\Forbes_2000_extraction
